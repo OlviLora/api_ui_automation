@@ -6,9 +6,6 @@ The features of this project:
 - API Automation (GET, POST, PUT, PATCH, DELETE) public endpoint
 - UI Automation open website and validate element is exist
 
-## Getting Started
-Setting up project locally for testing and development
-
 ### Prerequisites
 Make sure you have installed this tools:
 - Node.js and npm (Node Package Manager)
