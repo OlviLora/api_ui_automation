@@ -16,7 +16,7 @@ Make sure you have installed this tools:
 
 For the detail set-up you can read https://docs.cypress.io/guides/getting-started/installing-cypress.
 
-## Installation
+## How to Run?
 1. Clone the repository
 ```
 git clone git@github.com:OlviLora/api_ui_automation.git
