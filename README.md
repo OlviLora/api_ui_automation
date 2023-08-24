@@ -7,7 +7,6 @@ The features of this project:
 - UI Automation open website and validate element is exist
 
 ## Prerequisites
-Make sure you have installed this tools:
 - Node.js and npm (Node Package Manager)
 - Git
 
