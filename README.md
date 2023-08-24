@@ -18,7 +18,7 @@ For the detail set-up you can read https://docs.cypress.io/guides/getting-starte
 git clone git@github.com:OlviLora/api_ui_automation.git
 ```
 
-2. Go to the repository api_ui_automation
+2. Go to the repository automation
 
 3. Open the cypress
 ```
