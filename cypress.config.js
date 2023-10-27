@@ -5,6 +5,6 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    baseUrl: 'https://jsonplaceholder.typicode.com',
+    //baseUrl: 'https://jsonplaceholder.typicode.com',
   },
 });

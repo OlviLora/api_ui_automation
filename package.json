@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "cypress": "^12.17.4"
+  },
+  "dependencies": {
+    "convert-csv-to-json": "^2.0.0",
+    "node-xlsx": "^0.23.0"
   }
 }

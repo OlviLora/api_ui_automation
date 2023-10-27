@@ -1,0 +1,15 @@
+[
+    {
+        "clinicCode"        : "CLIN-92BMW2G1",
+        "vaccineCategory"   : "Polio",
+        "vaccineBrand"      : "Hexaxim",
+        "bookDate"          : "2023-10-31",
+        "bookTime"          : "12:00 - 13:00",
+        "childName"         : "alkatiri",
+        "gender"            : "MALE",
+        "dateOfBirth"       : "2021-03-12",
+        "parentName"        : "alkatiri",
+        "phone"             : "6285156974057",
+        "email"             : "bensu@primaku.com"
+    }
+]
